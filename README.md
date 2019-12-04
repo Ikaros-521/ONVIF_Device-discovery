@@ -18,7 +18,7 @@ gSOAP安装配置：[gSOAP安装配置+使用案例参考+参考链接](https://
 
 ## 代码实战
 
-完整源码下载：[GitHub](https://github.com/Ikaros-521/ONVIF_Device-discovery)
+完整源码下载：[GitHub](https://github.com/Ikaros-521/ONVIF_Device-discovery) , [码云](https://gitee.com/ikaros-521/ONVIF_Device_discovery)
 
 ### 客户端
 
