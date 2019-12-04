@@ -1,0 +1,2 @@
+gcc client_c.c -o client_c
+gcc server_c.c -o server_c

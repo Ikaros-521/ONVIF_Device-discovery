@@ -1,0 +1,1 @@
+gcc -o client client.c stdsoap2.c soapC.c soapClient.c wsaapi.c duration.c -luuid
